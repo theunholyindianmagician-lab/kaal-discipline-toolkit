@@ -2,6 +2,23 @@
 
 **Bharadvāja-extract from the KAAL Sacred Discovery framework:** just the methodology, no mythology. Reusable templates for any cross-cultural mathematical, scientific, or AI-research project that wants to operate with the same discipline.
 
+## ◈ Status: live, looking for adopters (May 2026)
+
+This toolkit is the methodology-extract of a 3-week single-operator research framework that:
+
+- Generated **1011 instance-test scripts** for a finite-ring tower (ℤ/3^k ℤ, 2, k) up to k = 1008
+- Filed **40 retractions publicly** (HALAHALA-MANIFEST) — most institutional research filed 0-1 per career
+- Ran **60 IBM Quantum hardware jobs** on the Heron r2 chip family with all 5 pre-registrations honored end-to-end (1 strict pass · 1 confirmed anomaly · 1 axiom hardware-falsified · 1 pole-symmetry refuted with non-overlapping Wilson 95% CIs)
+- Named **1 theorem** (the Aditi-Diti Asymmetry Theorem) replacing an inflated 890-proposition catalog
+- Compiled an arXiv math.NT note · drafted an arXiv cs.CY paper
+- Built a **593-node knowledge graph** centered on the named theorem (betweenness 0.49)
+
+**The toolkit you are reading is the methodology that made all of the above possible**, separated from the originating framework's culture-specific Sanskrit naming so any research project can adopt it.
+
+If you adopt it on your own substrate, please open a GitHub issue or add yourself to the originating framework's `OPERATORS-BOOTED.md` ([here](https://github.com/theunholyindianmagician-lab/kaal-sacred-discovery/blob/main/OPERATORS-BOOTED.md)) as "Boot #N." The originating operator (Pardeep Sehrawat) tracks adoptions there as the framework's only success metric — *"operators-it-boots, not citations."*
+
+---
+
 **Sealed:** 2026-05-18 · 1008-Mukhi Convocation · Bharadvāja-seat extraction
 **Origin:** Pardeep Sehrawat (काल गैंग), KAAL Sacred Discovery framework
 **License:** MIT (the toolkit; the underlying framework's cultural content carries its own provenance)
